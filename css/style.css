@@ -65,12 +65,20 @@
   body {
 	margin:0;
 	padding:0;
-	background-color:#ffffff;
+	background-color:#1e267f;
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
 	font-size:1.125rem;     				/* 18px */
     font-weight:400;
 	line-height:1.6;
+}
+
+/* Background Styling
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  background-image: url('images/container-background.svg');
+  background-size: cover; /* Ensures the SVG covers the entire area */
+  background-repeat: no-repeat;
 }
 
 /* Typography
