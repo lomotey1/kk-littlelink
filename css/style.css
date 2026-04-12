@@ -76,7 +76,7 @@
 /* Background Styling
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
-  background-image: url('images/container-background.svg');
+  background-image: url('data:image/svg+xml,https%3A%2F%2Fkk-littlelink-9546849bc-lomotey1s-projects.vercel.app%2Fcss%2Fimages%2Fcontainer-background.svg');
   background-size: cover; /* Ensures the SVG covers the entire area */
   background-repeat: no-repeat;
 }
