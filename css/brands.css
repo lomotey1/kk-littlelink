@@ -33,9 +33,9 @@
 
 /* Default */
 .button.button-default {
-	--button-text:#ffffff;
-	--button-background:#2457F5;
-	--button-border:1px solid #ffffff;
+	--button-text:#000000;
+	--button-background:#d2e823;
+	--button-border:0px solid #000000;
 }
 
 /* Amazon */
