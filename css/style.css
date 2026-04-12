@@ -135,7 +135,7 @@
 /* Typography Scale */
 h1 {
 	margin:0 0 var(--spacing-m) 0;
-	font-size:var(--scale-5);           /* ~49px */
+	font-size:var(--scale-3);           /* ~49px */
   	font-weight:800;
 	line-height:1.1;
 	letter-spacing:-0.02em;
